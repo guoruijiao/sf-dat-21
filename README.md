@@ -15,7 +15,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 1 | 2/25 | [What is Data Science](./classes/01) | [Unit Project 1](./unit-projects/1) and [Final Project 1](./final-project/1) assigned |
 | 1 | 3/1 | [Research Design and _pandas_](./classes/02) | |
 | 2 | 3/3 | [Statistics Fundamentals](./classes/03) | **[Unit Project 1](./unit-projects/1) due**; [Unit Project 2](./unit-projects/2) assigned |
-| 2 | 3/8 | Statistics Fundamentals, Part 2 | |
+| 2 | 3/8 | [Statistics Fundamentals, Part 2](./classes/04) | |
 | 3 | 3/10 | Flexible Class Session | **[Unit Project 2](./unit-projects/2) due**; Unit Project 3 assigned |
 | | | **Unit 2 - Foundations of Data Modeling** | |
 | 3 | 3/15 | Introduction to Regression | |
@@ -68,7 +68,7 @@ You've all been invited to use [Slack](https://sf-dat-21.slack.com) for chat dur
 | Unit Project | Description | Goal | Assigned | Due |
 |:---:|:---|:---|:---:|:---: |
 | [1](./unit-projects/1) | Research Design Write-Up | Create a problem statement, analysis plan, and data dictionary in iPython | 2/25 | 3/3 6:30PM Pacific |
-| [2]((./unit-projects/2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | 3/3 | 3/10 6:30PM Pacific |
+| [2](./unit-projects/2) | Exploratory Data Analysis | Explore data with visualizations and statistical analysis in an iPython notebook | 3/3 | 3/10 6:30PM Pacific |
 | 3 | Basic Modeling Assignment | Perform logistic regressions, creating dummy variables, and calculating probabilities | 3/10 | 3/24 6:30PM Pacific |
 | 4 | Notebook with Executive Summary | Present your findings in an iPython notebook with executive summary, visuals, and recommendations | 3/24 | 3/29 6:30PM Pacific |
 
