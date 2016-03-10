@@ -16,9 +16,9 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 1 | 3/1 | [Research Design and _pandas_](./classes/02) | |
 | 2 | 3/3 | [Statistics Fundamentals](./classes/03) | **[Unit Project 1](./unit-projects/1) due**; [Unit Project 2](./unit-projects/2) assigned |
 | 2 | 3/8 | [Statistics Fundamentals, Part 2](./classes/04) | |
-| 3 | 3/10 | Flexible Class Session | **[Unit Project 2](./unit-projects/2) due**; Unit Project 3 assigned |
+| 3 | 3/10 | Flexible Class Session | Unit Project 3 assigned |
 | | | **Unit 2 - Foundations of Data Modeling** | |
-| 3 | 3/15 | Introduction to Regression | |
+| 3 | 3/15 | Introduction to Regression | **[Unit Project 2](./unit-projects/2) due** (extended) |
 | 4 | 3/17 | Evaluating Model Fit | |
 | 4 | 3/22 | Introduction to Classification | **[Final Project 1](./final-project/1) due**; Final Project 2 assigned |
 | 5 | 3/24 | Introduction to Logistic Regression | **Unit Project 3 due**; Unit Project 4 assigned |
