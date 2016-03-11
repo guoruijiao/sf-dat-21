@@ -2,7 +2,7 @@
 
 > **Assigned:** Thursday, March 3, 2016.
 >
-> **Deadline:** Thursday, March 10, 2016 6:30PM Pacific Time.
+> **Deadline:** Thursday, March <strike>10</strike> 15, 2016 6:30PM Pacific Time.
 >
 > **Submission:**
 >
