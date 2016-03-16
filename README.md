@@ -18,8 +18,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 2 | 3/8 | [Statistics Fundamentals, Part 2](./classes/04) | |
 | 3 | 3/10 | [Flexible Class Session](./classes/05) | [Unit Project 3](./unit-projects/3) assigned |
 | | | **Unit 2 - Foundations of Data Modeling** | |
-| 3 | 3/15 | Introduction to Regression | **[Unit Project 2](./unit-projects/2) due** (extended) |
-| 4 | 3/17 | Evaluating Model Fit | |
+| 3 | 3/15 | [Introduction to Regression and Model Fit](./classes/06) | **[Unit Project 2](./unit-projects/2) due** (extended) |
+| 4 | 3/17 | Introduction to Regression and Model Fit, Part 2 | |
 | 4 | 3/22 | Introduction to Classification | **[Final Project 1](./final-project/1) due**; Final Project 2 assigned |
 | 5 | 3/24 | Introduction to Logistic Regression | **[Unit Project 3](./unit-projects/3)**; Unit Project 4 assigned |
 | 5 | 3/29 | Communicating Logistic Regression Results | **Unit Project 4 due** |
@@ -35,7 +35,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 10 | 4/28 | Flexible Class Session | |
 | 10 | 5/3 | Final Project Presentations | **Final Project 5 due** |
 
-(Syllabus last updated on 2/16/2016)
+(Syllabus last updated on 3/15/2016)
 
 (Flexible class sessions will be finalized after student goals are defined)
 
